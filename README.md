@@ -1,2 +1,2 @@
-# 0S221
+# OS221
 Operating Systems 2022-1
