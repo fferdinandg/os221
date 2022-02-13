@@ -8,10 +8,10 @@
 [TIPS]({{ site.baseurl }}/TIPS/) ---
 [GITHUB]({{ site.githublink }})
 <br>
-<hr>
-This is {{ site.title }} and I am {{ site.author }}.
+<br>
+Hi I'm {{ site.author }} and this is my OS221 repo 
 <br><br>
-ok
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
