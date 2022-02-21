@@ -17,4 +17,12 @@ ZCZC W00  20 L70 Studying for other courses
 ZCZC W00  60 L82 Reading novel
 ZCZC W00  60 L86 Cleaning my room
 ZCZC W00  20 L15 Assignment #05 (Udacity Visual Metaphor)
-ZCZC W00  60 L81 Listening to Radiohead - Kid A
+ZCZC W00  60 L81 Listening to Radiohead - Kid A (2000)
+
+ZCZC W01  90 L02 Zoom meeting
+ZCZC W01  60 L11 Assignment #01
+ZCZC W01  15 L12 Assignment #02
+ZCZC W01  15 L13 Assignment #03
+ZCZC W01  60 L31 VirtualBox: install GNU/Linux, etc.
+ZCZC W01  20 L22 Quiz
+ZCZC W01  50 L81 Listening to Portishead - Dummy (1994)
