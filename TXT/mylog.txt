@@ -28,10 +28,14 @@ ZCZC W01  20 L22 Quiz
 ZCZC W01  50 L81 Listening to Portishead - Dummy (1994)
 
 ZCZC W02  90 L02 Zoom meeting
-ZCZC W01  15 L11 Assignment #01
-ZCZC W01  60 L14 Assignment #02
-ZCZC W01  15 L15 Assignment #05
+ZCZC W02  15 L11 Assignment #01
+ZCZC W02  60 L14 Assignment #02
+ZCZC W02  15 L15 Assignment #05
 ZCZC W02  15 L16 Assignment #06
+ZCZC W02  45 L27 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W02  60 L81 Listening to Stereolab - Dots and Loops (1997)
+ 
+	
 
 
 
