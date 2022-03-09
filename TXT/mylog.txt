@@ -34,8 +34,12 @@ ZCZC W02  15 L15 Assignment #05
 ZCZC W02  15 L16 Assignment #06
 ZCZC W02  45 L27 GnuPG, key-gen, encrypt/decrypt.
 ZCZC W02  60 L81 Listening to Stereolab - Dots and Loops (1997)
- 
-	
 
+ZCZC W03  90 L02 Zoom meeting
+ZCZC W03  60 L11 Assignment #01
+ZCZC W03  30 L12 Assignment #02
+ZCZC W03  30 L13 Assignment #03
+ZCZC W03  20 L22 Quiz
+ZCZC W03 60 L81 Listening to PJ Harvey - Stories from the City, Stories from the Sea (2000)
 
 
