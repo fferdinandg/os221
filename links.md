@@ -53,3 +53,9 @@ A very concise explanation about the differences between static and shared libra
 This article explains the structures and features of Linux file system.
 13. [MBR vs GPT Which Should You Use?](https://www.youtube.com/watch?v=Ch9f7i0hj90)
 I had a problem with my old laptop once. One day, when I tried booting in, there was an error that said "No Bootable Device". I GSGS'd my way to my solution: changing the boot mode from UEFI to Legacy. I had no idea why that happened, until today when I watched this video. It turns out my laptop's hard drive was still set to MBR therefore I couldn't boot up in UEFI mode.
+
+### WEEK 04
+14. [Linux Basics: Static Libraries vs. Dynamic Libraries](https://medium.com/swlh/linux-basics-static-libraries-vs-dynamic-libraries-a7bcf8157779)
+This Medium article explains the difference between static and dynamic libraries pretty nicely, and it even shows you how to make a library with supplementary videos
+15. [Physical and Logical Address Space](https://www.javatpoint.com/os-physical-and-logical-address-space)
+Short article about the differences between physical and logical address
