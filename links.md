@@ -59,3 +59,7 @@ I had a problem with my old laptop once. One day, when I tried booting in, there
 This Medium article explains the difference between static and dynamic libraries pretty nicely, and it even shows you how to make a library with supplementary videos
 15. [Physical and Logical Address Space](https://www.javatpoint.com/os-physical-and-logical-address-space)
 Short article about the differences between physical and logical address
+
+### WEEK 05
+16. [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)
+Short article about how virtual memory works
