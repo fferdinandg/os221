@@ -63,3 +63,9 @@ Short article about the differences between physical and logical address
 ### WEEK 05
 16. [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)
 Short article about how virtual memory works
+
+### WEEK 06
+17. [What is Multicore Programming?](https://www.tutorialspoint.com/what-is-multicore-programming)
+Short article about how multicore programming works
+18.[fork() in C](https://www.geeksforgeeks.org/fork-system-call/)
+Short article explaining what fork() does
