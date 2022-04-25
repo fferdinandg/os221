@@ -69,3 +69,9 @@ Short article about how virtual memory works
 Short article about how multicore programming works
 18.[fork() in C](https://www.geeksforgeeks.org/fork-system-call/)
 Short article explaining what fork() does
+
+### WEEK 06
+19. [Introduction of Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)
+Deadlock is a situation where a set of processes are blocked because each process is holding a resource and waiting for another resource acquired by some other process. This short article explains this situation pretty well with illustration
+20. [CS5460: Operating System Lecture 7: Synchronization](https://my.eng.utah.edu/~cs5460/slides/Lecture07.pdf)
+Basic idea behind most synchronization: If two threads, processes, interrupt handlers, etc. are going to have conflicting accesses, force one of them wait until it is safe to proceed
