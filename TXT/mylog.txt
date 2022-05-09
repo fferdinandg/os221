@@ -62,15 +62,22 @@ ZCZC W06 100 L02 Zoom Meeting
 ZCZC W06  60 L11 Assignment #01
 ZCZC W06  10 L12 Assignment #02
 ZCZC W06  10 L13 Assignment #03
-ZCZC W06  3O L22 Quiz
+ZCZC W06  30 L22 Quiz
 ZCZC W06  60 L81 Listening to Sufjan Stevens - Illinois (2005)
 
 ZCZC W07 100 L02 Zoom Meeting
 ZCZC W07  60 L11 Assignment #01
 ZCZC W07  10 L12 Assignment #02
 ZCZC W07  45 L13 Assignment #03
-ZCZC W07  3O L22 Quiz
+ZCZC W07  30 L22 Quiz
 ZCZC W07  40 L81 Listening to The Jesus and Mary Chain - Psychocandy (1985)
+
+ZCZC W08 100 L02 Zoom Meeting
+ZCZC W08  60 L11 Assignment #01
+ZCZC W08  10 L12 Assignment #02
+ZCZC W08 240 L13 Assignment #03
+ZCZC W08  30 L22 Quiz
+ZCZC W08  35 L81 Listening to Yellow Magic Orchestra - Solid State Survivor (1979)
 
 
 
