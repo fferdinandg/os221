@@ -79,6 +79,13 @@ ZCZC W08 240 L13 Assignment #03
 ZCZC W08  30 L22 Quiz
 ZCZC W08  35 L81 Listening to Yellow Magic Orchestra - Solid State Survivor (1979)
 
+ZCZC W09 100 L02 Zoom Meeting
+ZCZC W09  60 L11 Assignment #01
+ZCZC W09  10 L12 Assignment #02
+ZCZC W09 120 L13 Assignment #03
+ZCZC W09  30 L22 Quiz
+ZCZC W09  49 L81 Listening to Sonic Youth - Goo (1990)
+
 
 
 
