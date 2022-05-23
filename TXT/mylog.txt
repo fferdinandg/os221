@@ -86,6 +86,14 @@ ZCZC W09 120 L13 Assignment #03
 ZCZC W09  30 L22 Quiz
 ZCZC W09  49 L81 Listening to Sonic Youth - Goo (1990)
 
+ZCZC W10 100 L02 Zoom Meeting
+ZCZC W10  60 L11 Assignment #01
+ZCZC W10  10 L12 Assignment #02
+ZCZC W10 240 L13 Assignment #03
+ZCZC W10  30 L22 Quiz
+ZCZC W10  40 L81 Listening to Talking Heads - Remain in Light (1980)
+
+
 
 
 
